@@ -2,11 +2,23 @@
 
 <h4 align="right">
 
-I do love *challenges.*
+I do love <ins>challenges</ins>.
 
 </h4>
 
 ---
+
+<h6 align="center">
+
+<samp><strong>#Enthusiastic #Diligent #DevOps #Cloud #Engineer</strong></samp>
+
+</h6>
+
+<h1 align="center">
+
+<b>[👔](#-work-experience) | [🧰](#-toolkit) | [💬](#-reach-out-to-me)</b>
+
+</h1>
 
 <h5 align="center">
 
@@ -23,10 +35,10 @@ In my work time, I do
 
 <h5>
 
-- ⚙️ **Automate** things & construct pipelines  
-- 📊 Visualise and **monitor** data & metrics,
-- ☁️ Provision and **maintain** servers & services,
-- 🧩 Build **microservices** using modern technology
+- ⚙️ <ins>Automate</ins> things & construct pipelines,
+- 📊 Visualise and <ins>monitor</ins> data & metrics,
+- ☁️ Provision and <ins>maintain</ins> servers & services,
+- 🧩 Build <ins>microservices</ins> using modern technology
 
 </h5>
 
@@ -38,10 +50,10 @@ Also, I assure
 
 <h5>
 
-- 👣 **Documentation** of our successes and failures
-- ♻️ Maintainable and **well-structured** code,
-- 🚀 Enthusiasm and **diligence**,
-- 🗣️ Constructive **feedback** and openness to criticism,
+- 👣 <ins>Documentation</ins> of our successes and failures
+- ♻️ Maintainable and <ins>well-structured</ins> code,
+- 🚀 Enthusiasm and <ins>diligence</ins>,
+- 🗣️ Constructive <ins>feedback</ins> and openness to criticism,
 
 </h5>
 
@@ -51,22 +63,26 @@ Also, I assure
 
 [<img align="left" height="64px" width="64px" alt="Volvo Cars" src="img/volvocars.jpeg"/>](https://www.volvocars.com/)
 
+<br/>
+
 **Software Engineer (DevOps & QA)** - [**Volvo Cars**](https://www.volvocars.com/)  
-May 2022 - Present
+<sup>May 2022 - Present</sup>
 
 <br/>
 
 [<img align="left" height="64px" width="64px" alt="retinadata" src="img/retinadata.jpeg"/>](https://www.retinadata.com/)
 
 **Software Engineer (Full-stack & DevOps)** - [**retinadata**](https://www.retinadata.com/)  
-Aug 2018 - Apr 2022
+<sup>Aug 2018 - Apr 2022</sup>
 
 <br/>
 
 [<img align="left" height="60px" width="64px" alt="aktos" src="img/aktos.jpeg"/>](https://aktos.io/)
 
 **Software Developer (Full-stack)** - [**aktos electronics**](https://aktos.io/)  
-Jun 2015 - Aug 2017
+<sup>Jun 2015 - Aug 2017</sup>
+
+<br/>
 
 <b>[Repositories](https://github.com/mustafacansevinc?tab=repositories) | [LinkedIn](https://www.linkedin.com/in/mcansevinc/)</b>
 
@@ -79,6 +95,8 @@ Jun 2015 - Aug 2017
 The main tools I feel *comfortable* with
 
 </h6>
+
+<a href="https://github.com/mustafacansevinc">
 
 ![aws][aws-badge]
 ![azure][azure-badge]
@@ -100,11 +118,15 @@ The main tools I feel *comfortable* with
 ![vue][vue-badge]
 ![ceph][ceph-badge]
 
+</a>
+
 <h6>
 
 I've also done more than just *get my feet wet*, in technologies like
 
 </h6>
+
+<a href="https://github.com/mustafacansevinc">
 
 ![graphql][graphql-badge]
 ![apollo][apollo-badge]
@@ -119,6 +141,8 @@ I've also done more than just *get my feet wet*, in technologies like
 ![lua][lua-badge]
 ![firebase][firebase-badge]
 ![flutter][flutter-badge]
+
+</a>
 
 ### 💬 Reach Out to Me
 
