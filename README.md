@@ -65,7 +65,7 @@ Also, I assure
 
 <br/>
 
-**Software Engineer (DevOps & QA)** - [**Volvo Cars**](https://www.volvocars.com/)  
+**Software Engineer (DevOps)** - [**Volvo Cars**](https://www.volvocars.com/)  
 <sup>May 2022 - Present</sup>
 
 <br/>
